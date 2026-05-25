@@ -16,7 +16,6 @@ of symptom severity is critical for treatment. This project uses
 voice-based features to predict the UPDRS score — a standard clinical 
 measure of Parkinson's severity — without any hardware or sensors.
 
-Inspired by **CortiCare** — Smart India Hackathon 2025 (Problem ID: SH25218)
 
 ---
 
@@ -38,4 +37,4 @@ This project is currently in progress. Code will be updated soon.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Shanu Jha]**
