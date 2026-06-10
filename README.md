@@ -102,4 +102,4 @@ Random Forest and XGBoost in progress.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Shanu Jha]**
